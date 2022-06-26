@@ -1,1 +1,3 @@
-# git-first-repo
+# git-first-repo 
+
+this repo is for learning
